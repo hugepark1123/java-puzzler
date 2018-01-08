@@ -15,6 +15,7 @@ public class Puzzle01Test {
 		assertTrue(true);
 		System.out.println("commit test");
 		// comment
+		// new comment
 	}
 	
 	@Test
